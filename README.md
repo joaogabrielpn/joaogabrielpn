@@ -1,5 +1,8 @@
-# 💫 About Me:
-📖 Estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco<br>
+# 🚀 About Me:
+📖 Computer Science student at Universidade Federal do Agreste de Pernambuco.<br>
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/bc9b3ecb-7e18-4855-b795-3381fa7e44ac" /> From Brazil.
+
+
 
 
 ## 🌐 Socials:
