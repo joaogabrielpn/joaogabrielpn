@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=44BBA4&width=435&lines=Hi%2C+I'm+Jo%C3%A3o+Gabriel)](https://git.io/typing-svg)
 
 📖 **Computer Science student at Universidade Federal do Agreste de Pernambuco.<br>**
