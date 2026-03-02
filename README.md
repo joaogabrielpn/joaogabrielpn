@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaogabriel.pn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaogabrielpn) ![GitHub]([https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/GitHub-joaogabrielpn-181717?style=for-the-badge&logo=github))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaogabriel.pn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaogabrielpn)
 
 
 # 💻 Tech Stack:
