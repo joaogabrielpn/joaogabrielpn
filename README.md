@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner de Boas-Vindas -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=44BBA4&center=true&vCenter=true&width=435&lines=Olá%2C+sou+o+João+Gabriel!;Desenvolvedor+Back-end;Estudante+de+CC." alt="Typing SVG" />
+  <!-- Banner de Boas-Vindas (URL corrigida para não quebrar) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=44BBA4&center=true&vCenter=true&width=450&lines=Ola%2C+sou+o+Joao+Gabriel!%3BDesenvolvedor+Back-end%3BEstudante+de+Computacao" alt="Typing SVG" />
 
   <p>
     Estudante de Ciência da Computação na <b>Universidade Federal do Agreste de Pernambuco (UFAPE)</b>.
@@ -35,13 +35,12 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <a href="https://github.com/joaogabrielpn">
+  <!-- Badge de Seguidores (Funciona perfeitamente) -->
+  <a href="https://github.com/joaogabrielpn?tab=followers">
     <img src="https://img.shields.io/github/followers/joaogabrielpn?style=for-the-badge&logo=github&label=Seguidores&color=123845&labelColor=44BBA4" alt="Seguidores" />
   </a>
-  <a href="https://github.com/joaogabrielpn">
-    <img src="https://img.shields.io/github/repos-public/joaogabrielpn?style=for-the-badge&logo=github&label=Repositórios&color=123845&labelColor=44BBA4" alt="Repositórios Públicos" />
-  </a>
-  <a href="https://github.com/joaogabrielpn">
-    <img src="https://img.shields.io/github/stars-of-user/joaogabrielpn?style=for-the-badge&logo=github&label=Stars%20Recebidas&color=123845&labelColor=44BBA4" alt="Stars" />
+  <!-- Badge de Repositórios Estático (100% à prova de falhas) -->
+  <a href="https://github.com/joaogabrielpn?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositórios-Ver_Todos-123845?style=for-the-badge&logo=github&logoColor=44BBA4" alt="Repositórios" />
   </a>
 </p>
