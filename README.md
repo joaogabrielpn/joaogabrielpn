@@ -33,7 +33,7 @@
   </a>
 </p>
 
-### 🛠️ Ferramentas e Frameworks
+### 🛠️ Ferramentas
 
 <p align="left">
   <a href="https://skillicons.dev">
