@@ -7,13 +7,10 @@
   Sou graduando em <b>Ciência da Computação</b> na Universidade Federal do Agreste de Pernambuco (UFAPE). Meu foco está em desenvolver soluções eficientes, APIs estruturadas e códigos limpos no Back-end.
 </p>
 
-<br />
-
-### 🌐 Redes Sociais
-
+<!-- Redes Sociais integradas (sem quebras de linha internas para evitar bugs visuais) -->
 <p align="left">
-  <a href="mailto:joaogabrielpn01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-123845?style=for-the-badge&logo=gmail&logoColor=123845&labelColor=44BBA4" alt="Gmail" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/joaogabrielpn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=123845&labelColor=44BBA4" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:joaogabrielpn01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-123845?style=for-the-badge&logo=gmail&logoColor=123845&labelColor=44BBA4" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/joaogabrielpn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=123845&labelColor=44BBA4" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/joaogabriel.pn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-123845?style=for-the-badge&logo=instagram&logoColor=123845&labelColor=44BBA4" alt="Instagram" /></a>
 </p>
 
@@ -22,22 +19,18 @@
 ### 💻 Tecnologias
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,js&theme=dark" alt="Minhas Tecnologias" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,java,py,js&theme=dark" alt="Minhas Tecnologias" />
 </p>
 
 ### 🛠️ Ferramentas
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,figma,ps,ai&theme=dark" alt="Minhas Ferramentas" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,figma,ps,ai&theme=dark" alt="Minhas Ferramentas" />
 </p>
 
 <br />
 
-### 📊 Estatísticas do GitHub (Extended)
+### 📊 Estatísticas
 
 <p align="left">
   <!-- Card Principal de Estatísticas (Com commits de todos os tempos e ícones ativos) -->
