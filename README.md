@@ -1,29 +1,15 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="350px" align="right">
-
 # Olá, eu sou o João Gabriel! 👋
 
-<p align="left">
-  Sou desenvolvedor <b>Back-end</b> e atualmente estou cursando Ciência da Computação na <b>Universidade Federal do Agreste de Pernambuco (UFAPE)</b>.
-</p>
-
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,git,github,vscode&theme=dark" alt="Minhas Tecnologias" />
-  </a>
-</p>
-
-### 📊 Estatísticas do GitHub
+<!-- Banner Animado (URL corrigida com acentos) -->
+<a href="https://github.com/joaogabrielpn">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=44BBA4&vCenter=true&width=450&lines=Ol%C3%A1%2C+sou+o+Jo%C3%A3o+Gabriel!%3BDesenvolvedor+Back-end%3BEstudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+</a>
 
 <p align="left">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="150em" src="https://github-stats-extended.vercel.app/api?username=joaogabrielpn&theme=gotham" alt="Estatísticas do GitHub" />
-  </a>
+  Sou graduando em <b>Ciência da Computação</b> na Universidade Federal do Agreste de Pernambuco (UFAPE). Meu foco está em desenvolver soluções eficientes, APIs estruturadas e códigos limpos no Back-end.
 </p>
 
-### 💌 Entre em contato comigo
-
+<!-- Redes Sociais personalizadas nas suas cores -->
 <p align="left">
   <a href="mailto:joaogabrielpn01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=44BBA4" alt="Gmail" />
@@ -33,5 +19,30 @@
   </a>
   <a href="https://www.instagram.com/joaogabriel.pn/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=44BBA4" alt="Instagram" />
+  </a>
+</p>
+
+<hr />
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,git,github,vscode&theme=dark" alt="Minhas Tecnologias" />
+  </a>
+</p>
+
+<hr />
+
+### 📊 Estatísticas do GitHub (Extended)
+
+<p align="left">
+  <!-- Card Principal de Estatísticas (Com commits de todos os tempos e ícones ativos) -->
+  <a href="https://github.com/joaogabrielpn">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=joaogabrielpn&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  </a>
+  <!-- Card de Linguagens mais utilizadas (Layout compacto e sem bordas) -->
+  <a href="https://github.com/joaogabrielpn">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaogabrielpn&theme=gotham&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
   </a>
 </p>
