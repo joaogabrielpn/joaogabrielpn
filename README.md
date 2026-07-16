@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner de Boas-Vindas (URL corrigida para não quebrar) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=44BBA4&center=true&vCenter=true&width=450&lines=Ola%2C+sou+o+Joao+Gabriel!%3BDesenvolvedor+Back-end%3BEstudante+de+Computacao" alt="Typing SVG" />
+  <!-- Banner de Boas-Vindas (URL codificada com acentos) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=44BBA4&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+o+Jo%C3%A3o+Gabriel!%3BDesenvolvedor+Back-end%3BEstudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
 
   <p>
     Estudante de Ciência da Computação na <b>Universidade Federal do Agreste de Pernambuco (UFAPE)</b>.
@@ -35,11 +35,11 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <!-- Badge de Seguidores (Funciona perfeitamente) -->
+  <!-- Badge de Seguidores -->
   <a href="https://github.com/joaogabrielpn?tab=followers">
     <img src="https://img.shields.io/github/followers/joaogabrielpn?style=for-the-badge&logo=github&label=Seguidores&color=123845&labelColor=44BBA4" alt="Seguidores" />
   </a>
-  <!-- Badge de Repositórios Estático (100% à prova de falhas) -->
+  <!-- Badge de Repositórios Estático -->
   <a href="https://github.com/joaogabrielpn?tab=repositories">
     <img src="https://img.shields.io/badge/Repositórios-Ver_Todos-123845?style=for-the-badge&logo=github&logoColor=44BBA4" alt="Repositórios" />
   </a>
