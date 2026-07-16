@@ -25,11 +25,11 @@
 
 <br />
 
-### 💻 Linguagens
+### 💻 Tecnologias
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js&theme=dark" alt="Minhas Linguagens" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,js&theme=dark" alt="Minhas Tecnologias" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,git,github,vscode,idea,pycharm,figma,ps,ai&theme=dark" alt="Minhas Ferramentas" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,figma,ps,ai&theme=dark" alt="Minhas Ferramentas" />
   </a>
 </p>
 
