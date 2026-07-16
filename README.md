@@ -26,13 +26,13 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,git,github,vscode&theme=dark" alt="Minhas Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,postgres,js,html,css,git,github,vscode&theme=dark" alt="Minhas Tecnologias" />
   </a>
 </p>
 
 <br />
 
-### 📊 Estatísticas do GitHub (Extended)
+### 📊 Estatísticas do GitHub
 
 <p align="left">
   <!-- Card Principal de Estatísticas (Com commits de todos os tempos e ícones ativos) -->
