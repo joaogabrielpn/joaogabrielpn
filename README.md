@@ -8,16 +8,13 @@
 </p>
 
 <br />
+
+### 🌐 Redes Sociais
+
 <p align="left">
-  <a href="mailto:joaogabrielpn01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-123845?style=for-the-badge&logo=gmail&logoColor=123845&labelColor=44BBA4" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/joaogabrielpn/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=123845&labelColor=44BBA4" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/joaogabriel.pn/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-123845?style=for-the-badge&logo=instagram&logoColor=123845&labelColor=44BBA4" alt="Instagram" />
-  </a>
+  <a href="mailto:joaogabrielpn01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-123845?style=for-the-badge&logo=gmail&logoColor=123845&labelColor=44BBA4" alt="Gmail" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/joaogabrielpn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=123845&labelColor=44BBA4" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.instagram.com/joaogabriel.pn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-123845?style=for-the-badge&logo=instagram&logoColor=123845&labelColor=44BBA4" alt="Instagram" /></a>
 </p>
 
 <br />
