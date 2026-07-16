@@ -7,7 +7,10 @@
   Sou graduando em <b>Ciência da Computação</b> na Universidade Federal do Agreste de Pernambuco (UFAPE). Meu foco está em desenvolver soluções eficientes, APIs estruturadas e códigos limpos no Back-end.
 </p>
 
-<!-- Redes Sociais usando Skill Icons -->
+<br />
+
+### 🌐 Redes Sociais
+
 <p align="left">
   <a href="mailto:joaogabrielpn01@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
