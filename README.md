@@ -22,11 +22,19 @@
 
 <br />
 
-### 🛠️ Tecnologias e Ferramentas
+### 💻 Linguagens
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,postgres,js,html,css,git,github,vscode&theme=dark" alt="Minhas Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=java,py,postgres,js,html,css&theme=dark" alt="Minhas Linguagens" />
+  </a>
+</p>
+
+### 🛠️ Ferramentas e Frameworks
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,git,github,vscode&theme=dark" alt="Minhas Ferramentas" />
   </a>
 </p>
 
