@@ -49,65 +49,13 @@
 
 <br />
 
-<!-- Seção de Projetos em HTML Puro (100% estável) -->
-<h3 align="center">🚀 Projetos em Destaque</h3>
-<div align="center">
-  <table width="100%">
-    <tr>
-      <!-- Projeto 1 -->
-      <td width="50%" valign="top" style="border: 1px solid #123845; border-radius: 8px; padding: 15px; background-color: #0d1117;">
-        <div align="left">
-          <h4>📂 <a href="https://github.com/joaogabrielpn" style="color: #44BBA4; text-decoration: none;">Nome do Projeto 1</a></h4>
-          <p style="font-size: 14px; color: #8b949e;">Descrição clara do seu principal projeto. Explique o problema que ele resolve e como foi construído.</p>
-          <p>
-            <img src="https://img.shields.io/badge/Java-123845?style=flat-square&logo=openjdk&logoColor=44BBA4" />
-            <img src="https://img.shields.io/badge/Spring-123845?style=flat-square&logo=spring&logoColor=44BBA4" />
-          </p>
-        </div>
-      </td>
-      <!-- Projeto 2 -->
-      <td width="50%" valign="top" style="border: 1px solid #123845; border-radius: 8px; padding: 15px; background-color: #0d1117;">
-        <div align="left">
-          <h4>📂 <a href="https://github.com/joaogabrielpn" style="color: #44BBA4; text-decoration: none;">Nome do Projeto 2</a></h4>
-          <p style="font-size: 14px; color: #8b949e;">Descrição de uma API, automação ou ferramenta desenvolvida por você focado em performance.</p>
-          <p>
-            <img src="https://img.shields.io/badge/Python-123845?style=flat-square&logo=python&logoColor=44BBA4" />
-            <img src="https://img.shields.io/badge/Flask-123845?style=flat-square&logo=flask&logoColor=44BBA4" />
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<!-- Estatísticas e Métricas Alternativas e Altamente Estáveis -->
+<!-- Estatísticas e Métricas 100% Estáveis -->
 <h3 align="center">📊 Minhas Estatísticas</h3>
 <p align="center">
-  <!-- Badges Dinâmicos de Alta Disponibilidade (Shields.io - Nunca quebram) -->
-  <img src="https://img.shields.io/github/followers/joaogabrielpn?style=for-the-badge&logo=github&label=Seguidores&color=123845&labelColor=44BBA4" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/joaogabrielpn?style=for-the-badge&logo=github&label=Stars&color=123845&labelColor=44BBA4" alt="Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/joaogabrielpn?style=for-the-badge&logo=github&label=Commits%20(Ano)&color=123845&labelColor=44BBA4" alt="Commits" />
-</p>
-
-<!-- Gráfico Dinâmico de Atividade (Altamente estável e customizado nas suas cores) -->
-<p align="center">
   <a href="https://github.com/joaogabrielpn">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaogabrielpn&bg_color=123845&color=44BBA4&line=44BBA4&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Atividade" />
+    <img src="https://img.shields.io/github/followers/joaogabrielpn?style=for-the-badge&logo=github&label=Seguidores&color=123845&labelColor=44BBA4" alt="Seguidores" />
+  </a>
+  <a href="https://github.com/joaogabrielpn">
+    <img src="https://img.shields.io/github/stars-of-user/joaogabrielpn?style=for-the-badge&logo=github&label=Stars%20Recebidas&color=123845&labelColor=44BBA4" alt="Stars" />
   </a>
 </p>
-
-<!-- Troféus de Conquistas (Usa servidores diferentes e possui excelente estabilidade) -->
-<p align="center">
-  <a href="https://github.com/joaogabrielpn">
-    <img src="https://github-profile-trophy.vercel.app/?username=joaogabrielpn&theme=gotham&column=7&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
-  </a>
-</p>
-
-<br />
-
-<!-- Gráfico de Contribuições interativo -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/joaogabrielpn/joaogabrielpn/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
