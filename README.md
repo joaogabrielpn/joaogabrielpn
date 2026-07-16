@@ -11,7 +11,7 @@
   <!-- Botões de Redes Sociais -->
   <p align="center">
     <a href="mailto:joaogabrielpn01@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-123845?style=for-the-badge&logo=gmail&logoColor=44BBA4" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=44BBA4" alt="Gmail" />
     </a>
     <a href="https://www.linkedin.com/in/joaogabrielpn/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=44BBA4" alt="LinkedIn" />
@@ -49,7 +49,7 @@
 
 <br />
 
-<!-- Seção de Projetos em HTML Puro (Nunca quebra e carrega instantaneamente) -->
+<!-- Seção de Projetos em HTML Puro (100% estável) -->
 <h3 align="center">🚀 Projetos em Destaque</h3>
 <div align="center">
   <table width="100%">
@@ -82,22 +82,26 @@
 
 <br />
 
-<!-- Métricas e Estatísticas Estáveis -->
+<!-- Estatísticas e Métricas Alternativas e Altamente Estáveis -->
 <h3 align="center">📊 Minhas Estatísticas</h3>
 <p align="center">
-  <!-- Badges Dinâmicos de Alta Disponibilidade (Shields.io - Não quebram) -->
+  <!-- Badges Dinâmicos de Alta Disponibilidade (Shields.io - Nunca quebram) -->
   <img src="https://img.shields.io/github/followers/joaogabrielpn?style=for-the-badge&logo=github&label=Seguidores&color=123845&labelColor=44BBA4" alt="Seguidores" />
   <img src="https://img.shields.io/github/stars/joaogabrielpn?style=for-the-badge&logo=github&label=Stars&color=123845&labelColor=44BBA4" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-size/joaogabrielpn/joaogabrielpn?style=for-the-badge&label=Tamanho%20do%20Perfil&color=123845&labelColor=44BBA4" alt="Tamanho" />
+  <img src="https://img.shields.io/github/commit-activity/y/joaogabrielpn?style=for-the-badge&logo=github&label=Commits%20(Ano)&color=123845&labelColor=44BBA4" alt="Commits" />
 </p>
 
+<!-- Gráfico Dinâmico de Atividade (Altamente estável e customizado nas suas cores) -->
 <p align="center">
-  <!-- Estatísticas com cache agressivo para evitar bloqueios de API -->
   <a href="https://github.com/joaogabrielpn">
-    <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=joaogabrielpn&show_icons=true&bg_color=123845&title_color=44BBA4&text_color=ffffff&icon_color=44BBA4&hide_border=true&cache_seconds=86400" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaogabrielpn&bg_color=123845&color=44BBA4&line=44BBA4&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Atividade" />
   </a>
+</p>
+
+<!-- Troféus de Conquistas (Usa servidores diferentes e possui excelente estabilidade) -->
+<p align="center">
   <a href="https://github.com/joaogabrielpn">
-    <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=joaogabrielpn&layout=compact&bg_color=123845&title_color=44BBA4&text_color=ffffff&icon_color=44BBA4&hide_border=true&cache_seconds=86400" alt="Linguagens mais usadas" />
+    <img src="https://github-profile-trophy.vercel.app/?username=joaogabrielpn&theme=gotham&column=7&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
   </a>
 </p>
 
