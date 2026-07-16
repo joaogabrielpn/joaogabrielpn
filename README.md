@@ -1,3 +1,4 @@
+<!-- Banner Animado (URL codificada com acentos) -->
 <a href="https://github.com/joaogabrielpn">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=44BBA4&vCenter=true&width=450&lines=Ol%C3%A1%2C+sou+o+Jo%C3%A3o+Gabriel!%3BDesenvolvedor+Back-end%3BEstudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
 </a>
@@ -19,7 +20,7 @@
   </a>
 </p>
 
-<hr />
+<br />
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -29,7 +30,7 @@
   </a>
 </p>
 
-<hr />
+<br />
 
 ### 📊 Estatísticas do GitHub (Extended)
 
