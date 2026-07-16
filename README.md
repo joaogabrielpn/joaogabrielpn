@@ -13,13 +13,13 @@
 
 <p align="left">
   <a href="mailto:joaogabrielpn01@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?label=Gmail&message=joaogabrielpn01@gmail.com&color=123845&style=for-the-badge&logo=gmail&logoColor=44BBA4" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/joaogabrielpn/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=joaogabrielpn&color=123845&style=for-the-badge&logo=linkedin&logoColor=44BBA4" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/joaogabriel.pn/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?label=Instagram&message=%40joaogabriel.pn&color=123845&style=for-the-badge&logo=instagram&logoColor=44BBA4" alt="Instagram" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,postgres,js,html,css&theme=dark" alt="Minhas Linguagens" />
+    <img src="https://skillicons.dev/icons?i=java,py,js&theme=dark" alt="Minhas Linguagens" />
   </a>
 </p>
 
