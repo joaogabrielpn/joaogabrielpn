@@ -7,16 +7,16 @@
   Sou graduando em <b>Ciência da Computação</b> na Universidade Federal do Agreste de Pernambuco (UFAPE). Meu foco está em desenvolver soluções eficientes, APIs estruturadas e códigos limpos no Back-end.
 </p>
 
-<!-- Redes Sociais personalizadas e informativas -->
+<!-- Redes Sociais com API estática (corrigindo o bug dos pontos) -->
 <p align="left">
   <a href="mailto:joaogabrielpn01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-joaogabrielpn01%40gmail.com-123845?style=for-the-badge&logo=gmail&logoColor=44BBA4" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?label=Gmail&message=joaogabrielpn01@gmail.com&color=123845&style=for-the-badge&logo=gmail&logoColor=44BBA4" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/joaogabrielpn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-joaogabrielpn-123845?style=for-the-badge&logo=linkedin&logoColor=44BBA4" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=joaogabrielpn&color=123845&style=for-the-badge&logo=linkedin&logoColor=44BBA4" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/joaogabriel.pn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40joaogabriel.pn-123845?style=for-the-badge&logo=instagram&logoColor=44BBA4" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?label=Instagram&message=%40joaogabriel.pn&color=123845&style=for-the-badge&logo=instagram&logoColor=44BBA4" alt="Instagram" />
   </a>
 </p>
 
