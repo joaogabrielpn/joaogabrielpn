@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/joaogabrielpn">
     <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=44BBA4&width=435&lines=Hi%2C+I'm+Jo%C3%A3o+Gabriel!" alt="Typing SVG" />
   </a>
 
@@ -33,7 +33,7 @@
 
 ### 💻 Tecnologias que utilizo
 
-#### **Linguagens & Back-end**
+#### **Back-end**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-123845?style=for-the-badge&logo=openjdk&logoColor=44BBA4" alt="Java" />
   <img src="https://img.shields.io/badge/Python-123845?style=for-the-badge&logo=python&logoColor=44BBA4" alt="Python" />
@@ -57,7 +57,6 @@
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaogabrielpn&theme=gotham" alt="Profile Details" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaogabrielpn&theme=gotham" alt="Repos per Language" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaogabrielpn&theme=gotham" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogabrielpn&show_icons=true&bg_color=123845&title_color=44BBA4&text_color=ffffff&icon_color=44BBA4&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielpn&layout=compact&bg_color=123845&title_color=44BBA4&text_color=ffffff&icon_color=44BBA4&hide_border=true" alt="Top Languages" />
 </div>
