@@ -43,7 +43,7 @@
 
 <br />
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub (Extended)
 
 <p align="left">
   <!-- Card Principal de Estatísticas (Com commits de todos os tempos e ícones ativos) -->
