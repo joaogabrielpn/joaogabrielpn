@@ -33,12 +33,12 @@
 ### 📊 Estatísticas
 
 <p align="left">
-  <!-- Card Principal de Estatísticas (Com commits de todos os tempos e ícones ativos) -->
+  <!-- Card Principal de Estatísticas (Oficial, com commits de todos os tempos, sem bordas e tema gotham) -->
   <a href="https://github.com/joaogabrielpn">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=joaogabrielpn&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogabrielpn&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
   </a>
-  <!-- Card de Linguagens mais utilizadas (Layout compacto e sem bordas) -->
+  <!-- Card de Linguagens mais utilizadas (Oficial, layout compacto, sem bordas e tema gotham) -->
   <a href="https://github.com/joaogabrielpn">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaogabrielpn&theme=gotham&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielpn&theme=gotham&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
   </a>
 </p>
