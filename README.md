@@ -1,6 +1,4 @@
-<a href="https://github.com/joaogabrielpn">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58a6ff&vCenter=true&width=450&lines=Ol%C3%A1%2C+sou+o+Jo%C3%A3o+Gabriel!%3BDesenvolvedor+Back-end%3BEstudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
-</a>
+<a href="https://github.com/joaogabrielpn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58a6ff&vCenter=true&width=450&lines=Ol%C3%A1%2C+sou+o+Jo%C3%A3o+Gabriel!%3BDesenvolvedor+Back-end%3BEstudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 
 <p align="left">
   Sou graduando em <b>Ciência da Computação</b> na Universidade Federal do Agreste de Pernambuco (UFAPE). Meu foco está em desenvolver soluções eficientes, APIs estruturadas e códigos limpos no Back-end.
@@ -29,10 +27,5 @@
 ### 📊 Estatísticas
 
 <p align="left">
-  <a href="https://github-stats-extended.vercel.app/api?username=joaogabrielpn&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20GitHub&show_icons=true&include_all_commits=true&theme=github_dark">
-    <img src="https://github-stats-extended.vercel.app/api?username=joaogabrielpn&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20GitHub&show_icons=true&include_all_commits=true&theme=github_dark" alt="GitHub Stats" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=joaogabrielpn&langs_count=4&theme=github_dark">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=joaogabrielpn&langs_count=4&theme=github_dark" alt="Top Langs" />
-  </a>
+  <a href="https://github-stats-extended.vercel.app/api?username=joaogabrielpn&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20GitHub&show_icons=true&include_all_commits=true&theme=github_dark"><img src="https://github-stats-extended.vercel.app/api?username=joaogabrielpn&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20GitHub&show_icons=true&include_all_commits=true&theme=github_dark" alt="GitHub Stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github-stats-extended.vercel.app/api/top-langs?username=joaogabrielpn&langs_count=4&theme=github_dark"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=joaogabrielpn&langs_count=4&theme=github_dark" alt="Top Langs" /></a>
 </p>
