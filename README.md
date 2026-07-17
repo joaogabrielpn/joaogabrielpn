@@ -31,7 +31,7 @@
 <p align="left">
   <a href="https://github-stats-extended.vercel.app/api?username=joaogabrielpn&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20GitHub&show_icons=true&include_all_commits=true&theme=github_dark">
     <img src="https://github-stats-extended.vercel.app/api?username=joaogabrielpn&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20GitHub&show_icons=true&include_all_commits=true&theme=github_dark" alt="GitHub Stats" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=joaogabrielpn&langs_count=4&theme=github_dark">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=joaogabrielpn&langs_count=4&theme=github_dark" alt="Top Langs" />
   </a>
